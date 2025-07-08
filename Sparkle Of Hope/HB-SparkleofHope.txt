@@ -1,0 +1,53 @@
+```metadata
+title: Sparkle of Hope
+description: ''
+tags: []
+systems: []
+renderer: V3
+theme: 5ePHB
+snippets:
+  - name: brew_snippets
+    subsnippets:
+      - name: example snippet
+        gen: >-
+
+          The text between `\snippet title` lines will become a snippet of name
+          `title` as this example provides.
+
+
+          This snippet is accessible in the brew tab, and will be inherited if
+          the brew is used as a theme.
+
+```
+
+```css
+/*=======---  Example CSS styling  ---=======*/
+/* Any CSS here will apply to your document! */
+
+
+```
+
+# Искра Надежды
+
+Королевство захвачено, орки повсюду!  
+
+что вы можете сделать чтобы спасти его? В ваших руках судьба всех.
+
+<br/>
+<br/>
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+
+### Глава 2
